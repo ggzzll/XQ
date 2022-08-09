@@ -1,9 +1,10 @@
 # 声明
 
 <div align=center>
-<img alt="名字" src="https://img.shields.io/badge/%E5%90%8D%E5%AD%97-XQ-orange.svg"></img>
-<img alt="语言" src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-PHP-brightgreen.svg"></img>
-<img alt="QQ群" src="https://img.shields.io/badge/QQ%E7%BE%A4-901365053-ff69b4.svg"></img>
+<a href="https://github.com/ggzzll/MX-QBOT"><img alt="名字" src="https://img.shields.io/badge/%E5%90%8D%E5%AD%97-XQ-orange.svg"></img></a>
+<a href="https://www.php.net/"><img alt="语言" src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-PHP-brightgreen.svg"></img></a>
+<a href="https://jq.qq.com/?_wv=1027&k=YCZWj96t"><img alt="QQ群" src="https://img.shields.io/badge/QQ%E7%BE%A4-901365053-ff69b4.svg"></img></a>
+<a href="https://jq.qq.com/?_wv=1027&k=YCZWj96t"><img alt="作者QQ" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85QQ-386715331-blue.svg"></img></a>
 </div>  
 
 ## MX-QBOT(XQ)介绍
