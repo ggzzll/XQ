@@ -1,6 +1,6 @@
 # 声明
 
-<div align=center>[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-901365053-ff69b4.svg)](https://jq.qq.com/?_wv=1027&k=YCZWj96t)</div>  
+<div align=center><img alt="QQ群" src="https://img.shields.io/badge/QQ%E7%BE%A4-901365053-ff69b4.svg"></img></div>  
 
 ## MX-QBOT(XQ)介绍
 **一个适用于Go - CQHTTP Mirai-API-HTTP(这个目前暂不支持，等后续我写出来一个)等等的QQ BOT库插件，该插件使用PHP编写后续会考虑其他语言，兼容于部分QRSpeed CloudX6等词库语法**
