@@ -4,8 +4,8 @@
 <a href="https://github.com/ggzzll/MX-QBOT"><img alt="名字" src="https://img.shields.io/badge/%E5%90%8D%E5%AD%97-XQ-orange.svg"></img></a>
 <a href="https://www.php.net/"><img alt="语言" src="https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-PHP-brightgreen.svg"></img></a>
 <a href="https://jq.qq.com/?_wv=1027&k=YCZWj96t"><img alt="QQ群" src="https://img.shields.io/badge/QQ%E7%BE%A4-901365053-ff69b4.svg"></img></a>
-<a href="https://wpa.qq.com/msgrd?v=1&uin=386715331&site=qq&menu=yes"><img alt="作者QQ" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85QQ-386715331-blue.svg"></img></a>
-<a href="https://wpa.qq.com/msgrd?v=1&uin=1334850101&site=qq&menu=yes"><img alt="作者QQ" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85QQ-1334850101-blue.svg"></img></a>
+<a href="https://wpa.qq.com/msgrd?v=1&uin=386715331&site=qq&menu=yes"><img alt="作者(开发者)QQ" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85(%E5%BC%80%E5%8F%91%E8%80%85)QQ-386715331-blue.svg"></img></a>
+<a href="https://wpa.qq.com/msgrd?v=1&uin=1334850101&site=qq&menu=yes"><img alt="作者(测逝员)QQ" src="https://img.shields.io/badge/%E4%BD%9C%E8%80%85(%E6%B5%8B%E9%80%9D%E5%91%98)QQ-1334850101-blue.svg"></img></a>
 </div>  
 
 ## MX-QBOT(XQ)介绍
