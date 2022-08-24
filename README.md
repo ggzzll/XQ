@@ -13,7 +13,7 @@
 
 ## 适用人群
 **在这里我说一句：对没错，付费的比我的好，不想用就别用，没一定让你用继续用付费的去吧，我写的代码高攀不起您这用付费的** 
-<img alt="不宜适用人群" src="https://cdn.jsdelivr.net/gh/ggzzll/XQ/PWANETA/1.png" id="PWANETA">  
+<img alt="不宜适用人群" src="/PWANETA/1.png" id="PWANETA">  
 **除了上述说的，我自然是欢迎所有人来使用&给我提意见**
 
 ## 注意事项
@@ -26,3 +26,9 @@
 ## 致谢人员列表
 **1：提供过帮助给这个项目的各位**  
 **2：愿意支持这个项目的各位**
+
+<script>
+  function GithubImgError(e){
+    e.src="https://cdn.jsdelivr.net/gh/ggzzll/XQ"+e.src;
+  }
+</script>
